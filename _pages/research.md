@@ -5,35 +5,23 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
+My research endeavors traverse the fascinating crossroads of accounting, finance, and technology. Here's a glimpse into my current think-tanks:
 
-My research interests lie at the intersection of accounting, finance, and technology. Here are my current working papers:
+##Working Papers 📚
 
-## Working Papers
+"Intangible capital as an interplay of investments and payoffs" 💼
+Job Market Paper 📑
+Abstract: Journey into the world of intangible capital... [insert abstract here]
 
-### "The Impact of Financial Technology Innovations on the Accounting Industry"
-##### Published Year: YYYY
-##### Abstract: 
 
-*Insert abstract here*
+"Aggregate Profit Margins and Globalization" 🌐
+Co-pilot in thought: Swaminathan Sridharan
+Abstract: Unraveling the impact of globalization on profits... [insert abstract here]
 
-[Link to full paper](#)
 
-### "AI and Machine Learning in Auditing: A Comprehensive Analysis"
-##### Co-author: Co-author Name
-##### Published Year: YYYY
-##### Abstract: 
+"Types of Component Auditors and Shareholder Ratification of the Auditor" 👥
+Thought partner: Sriniwas Mahapatro
+Review and Resubmit at Journal of Business, Finance and Accounting 🔄
+Abstract: Decoding the roles of component auditors... [insert abstract here]
 
-*Insert abstract here*
-
-[Link to full paper](#)
-
-### "The Role of Big Data in Modern Accounting"
-##### Co-author: Co-author Name
-##### Published Year: YYYY
-##### Abstract: 
-
-*Insert abstract here*
-
-[Link to full paper](#)
 

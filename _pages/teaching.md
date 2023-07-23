@@ -5,38 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+##Instructor 🎙️
 
-### Indian School of Business
+Financial Accounting – The Language of Business 👥💼: Bachelors at Hamstech 2022
+Overall rating: 6.70/7.00
+(Knowledge: 6.62/7.00; Communication: 6.52/7:00)
 
-#### Instructor
+Statistical Modeling with JMP 📊🧮: Executive Doctoral Program at ISB 2021
+Overall rating: 6.92/7.00
+(Knowledge: 6.85/7.00; Communication: 7:00/7:00)
 
-1. Financial Accounting and Decision Making – PGP (MBA) Program 
-   - Fall 2020, Fall 2021, Fall 2022
-   - Course evaluations: 4.7/5, 4.8/5, 4.9/5 respectively
-   
-#### Teaching Assistant
+##Teaching Assistant 📚
 
-1. Accounting Based Valuation – PGP (MBA) Program 
-   - Prof. Sanjay Kallapur: Fall 2019, Spring 2020, Spring 2021
-2. Financial Accounting and Decision Making – PGP (MBA) Program 
-   - Prof. Swaminathan Sridharan: Fall 2019, Fall 2020, Fall 2021
+Accounting: Executive Doctoral Program at ISB 2019 – 2020
+Assisted Prof. Jake Thomas (Yale)
 
-### Kellogg School of Management
+Statistical Modeling: Executive Doctoral Program at ISB 2020 – 2021
+Assisted Prof. Richard Waterman (Wharton)
 
-#### Teaching Assistant
-
-1. Managerial Accounting – MBA Program 
-   - Prof. Swaminathan Sridharan: Winter 2023
-2. Financial Accounting – MBA Program 
-   - Prof. Swaminathan Sridharan: Spring 2023
-
-## Executive Education
-
-### Indian School of Business
-
-#### Teaching Assistant
-
-1. Accounting for Decision-Making – Indian Railways Service of Mechanical Engineers
-   - Prof. Sanjay Kallapur: March 2022
-
+Theoretical Accounting: Doctoral Program at ISB 2020 – 2021
+Assisted Prof. Swaminathan Sridharan (Kellogg)
