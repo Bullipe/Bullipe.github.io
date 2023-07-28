@@ -5,23 +5,42 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##Instructor 🎙️
+# Instructor 🎙️
 
-Financial Accounting – The Language of Business 👥💼: Bachelors at Hamstech 2022
-Overall rating: 6.70/7.00
-(Knowledge: 6.62/7.00; Communication: 6.52/7:00)
+## Financial Accounting – The Language of Business (Bachelors at Hamstech)
 
-Statistical Modeling with JMP 📊🧮: Executive Doctoral Program at ISB 2021
-Overall rating: 6.92/7.00
-(Knowledge: 6.85/7.00; Communication: 7:00/7:00)
+**Overall rating:** 6.70/7.00  
+**Knowledge:** 6.62/7.00  
+**Communication:** 6.52/7:00  
 
-##Teaching Assistant 📚
+Feedback from students:
 
-Accounting: Executive Doctoral Program at ISB 2019 – 2020
-Assisted Prof. Jake Thomas (Yale)
+- "An amazing lecture!"
+- "Bullipe broke down complex concepts into relatable examples."
+- "The instructor was knowledgeable in the subject and communicated with a coherent flow of ideas."
 
-Statistical Modeling: Executive Doctoral Program at ISB 2020 – 2021
-Assisted Prof. Richard Waterman (Wharton)
+## Statistical Modeling with JMP (Executive Doctoral Program at ISB)
 
-Theoretical Accounting: Doctoral Program at ISB 2020 – 2021
-Assisted Prof. Swaminathan Sridharan (Kellogg)
+**Overall rating:** 6.92/7.00  
+**Knowledge:** 6.85/7.00  
+**Communication:** 7:00/7:00  
+
+Feedback from students:
+
+- "Bullipe was very supportive and accessible for clarifications. He had immense patience in handling queries and also took an extra session."
+- "Bullipe was wonderful and very accessible. He took time to explain the concepts and I would rate him very high."
+- "Bullipe is a brilliant resource and I wish him the best."
+
+# Teaching Assistant 📚
+
+## Accounting (Executive Doctoral Program at ISB, 2019 – 2020)
+
+**Assisted:** Prof. Jake Thomas (Yale)
+
+## Statistical Modeling (Executive Doctoral Program at ISB, 2020 – 2021)
+
+**Assisted:** Prof. Richard Waterman (Wharton)
+
+## Theoretical Accounting (Doctoral Program at ISB, 2020 – 2021)
+
+**Assisted:** Prof. Swaminathan Sridharan (Kellogg)
