@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bullipe"
-  avatar           : "images/profile.JPG"
+  avatar           : "profile.JPG"
   bio              : # "Researcher in the interface of Accounting and Machine Learning"
   location         : "Evanston, US"
   employer         :
