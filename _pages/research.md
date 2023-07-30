@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
-# Research Projects
+# 
 
 ## Working Papers
 
@@ -32,7 +32,7 @@ This research assesses the impact of increased globalization on the profitabilit
 ## Book Chapters
 
 ### Estimation of Earnings Response Coefficients using Bayesian Hierarchical Models
-*With Sanjay Kallapur | SSRN | GitHub*
+*With Sanjay Kallapur*
 
 This paper introduces Bayesian hierarchical models for the estimation of earnings response coefficients (ERC), aiming to preserve parameter heterogeneity and yield less noisy results than firm-specific OLS. A sample of 301 firms is utilized to demonstrate the effectiveness of the Bayesian models. [Read More](link-to-paper)
 
