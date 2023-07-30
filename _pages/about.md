@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "👋 Hello World, I'm Bullipe!"
 excerpt: "Accounting Doctoral Candidate | Research Specialist | Machine Learning Enthusiast"
@@ -8,10 +9,10 @@ redirect_from:
 ---
 
 ## 🚀 About Me
-I am a final year doctoral candidate specializing in Accounting at the Indian School of Business (ISB) and concurrently a research specialist in Accounting Information and Management at the Kellogg School of Management. I enjoy using state-of-the-art tools like machine learning and multilevel modelling to add new perspectives to financial accounting.
+I am a final year doctoral candidate specializing in Accounting at the Indian School of Business (ISB) and concurrently a research specialist in Accounting Information and Management at the Kellogg School of Management. 
 
 ## 🔬 Research Interests
-Economics of intangible capital, financial accounting, Machine learning.
+Economics of intangible capital, financial accounting, Machine learning. I use state-of-the-art tools like machine learning and multilevel modelling to add new perspectives to financial accounting research.
 
 ## 📚 Teaching Philosophy
 I strive to create a learning environment that nurtures curiosity, promotes critical thinking, and fosters diversity and inclusivity. In the age of artificial intelligence, I am adapting my pedagogical strategies to effectively prepare students for a digitally enhanced future.
