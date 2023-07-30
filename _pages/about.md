@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello World, I'm Bullipe!"
+title: "👋 Hello, I'm Bullipe!"
 excerpt: "Accounting Doctoral Candidate | Research Specialist | Machine Learning Enthusiast"
 author_profile: true
 redirect_from: 
