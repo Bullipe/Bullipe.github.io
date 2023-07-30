@@ -4,7 +4,6 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
-# 
 
 ## Working Papers
 
