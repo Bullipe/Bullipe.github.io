@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Bullipe"
-  avatar           : "profile.png"
-  bio              : "Research in the interface of Accounting and Machine Learning"
+  avatar           : "images/profile.JPG"
+  bio              : # "Researcher in the interface of Accounting and Machine Learning"
   location         : "Evanston, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Bullipe"
+  github           : #"Bullipe"
   google_plus      :
   keybase          :
   instagram        :
