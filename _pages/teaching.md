@@ -7,7 +7,7 @@ author_profile: true
 
 # Instructor 🎙️
 
-## Financial Accounting – The Language of Business (Bachelors at Hamstech)
+## Financial Accounting – The Language of Business 
 
 **Overall rating:** 6.70/7.00  
 **Knowledge:** 6.62/7.00  
@@ -19,7 +19,7 @@ Feedback from students:
 - "Bullipe broke down complex concepts into relatable examples."
 - "The instructor was knowledgeable in the subject and communicated with a coherent flow of ideas."
 
-## Statistical Modeling with JMP (Executive Doctoral Program at ISB)
+## Statistical Modeling with JMP 
 
 **Overall rating:** 6.92/7.00  
 **Knowledge:** 6.85/7.00  

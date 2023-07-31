@@ -9,7 +9,6 @@ author_profile: true
 
 ### Valuing Internally Generated Intangible Capital Using a Machine Learning Approach
 *Job Market Paper | Thesis Proposal*
-
 This paper proposes a novel, machine-learning based approach to estimate the value of internally generated intangible capital. It suggests a method that accounts for non-linear payoffs and synergistic effects often encountered in intangible investments. This method enhances the prediction accuracy for present market enterprise values and future patent values in comparison to conventional linear models. [Read More](link-to-paper)
 
 ---
@@ -17,7 +16,7 @@ This paper proposes a novel, machine-learning based approach to estimate the val
 ### Types of Component Auditors and Shareholder Ratification of the Auditor
 *With Sriniwas Mahapatro | Revise and Resubmit at JBFA*
 
-This study analyzes the effect of different types of component auditors on shareholder dissatisfaction. It highlights that firms reporting the use of large component auditors (LCAs) witness a 17% decrease in shareholder voting against or abstaining from auditor ratification. The impact is more potent in firms with high institutional shareholding and firms where the principal auditor is a non-specialist. [Read More](link-to-paper)
+This study analyzes the effect of different types of component auditors on shareholder dissatisfaction. It highlights that firms reporting the use of large component auditors (LCAs) witness a 17% decrease in shareholder voting against or abstaining from auditor ratification. The impact is larger in firms with high institutional shareholding and firms where the principal auditor is a non-specialist. [Read More](link-to-paper)
 
 ---
 
