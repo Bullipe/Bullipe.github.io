@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
-
 ### Valuing Internally Generated Intangible Capital Using a Machine Learning Approach
 *Job Market Paper | Thesis Proposal*
 This paper proposes a novel, machine-learning based approach to estimate the value of internally generated intangible capital. It suggests a method that accounts for non-linear payoffs and synergistic effects often encountered in intangible investments. This method enhances the prediction accuracy for present market enterprise values and future patent values in comparison to conventional linear models. [Read More](link-to-paper)

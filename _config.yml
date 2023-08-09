@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bullipe's home page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Bullipe R. Chintha"
 description              : &description "personal description"

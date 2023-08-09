@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -33,14 +33,14 @@ Feedback from students:
 
 # Teaching Assistant 📚
 
-## Accounting (Executive Doctoral Program at ISB, 2019 – 2020)
+## Accounting 
 
-**Assisted:** Prof. Jake Thomas (Yale)
+Assisted: Prof. Jake Thomas (Yale)
 
-## Statistical Modeling (Executive Doctoral Program at ISB, 2020 – 2021)
+## Statistical Modeling 
 
-**Assisted:** Prof. Richard Waterman (Wharton)
+Assisted: Prof. Richard Waterman (Wharton)
 
-## Theoretical Accounting (Doctoral Program at ISB, 2020 – 2021)
+## Theoretical Accounting 
 
-**Assisted:** Prof. Swaminathan Sridharan (Kellogg)
+Assisted: Prof. Swaminathan Sridharan (Kellogg)
