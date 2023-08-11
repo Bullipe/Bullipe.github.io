@@ -43,4 +43,3 @@ This work-in-progress scrutinizes traditional methodologies used in detecting ea
 
 ---
 
-For any academic or research-related inquiries, please feel free to reach out to me at bullipe.chintha@kellogg.northwestern.edu.
