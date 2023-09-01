@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bullipe"
+  name             : #"Bullipe"
   avatar           : "pic1.jpeg"
   bio              : # "Researcher in the interface of Accounting and Machine Learning"
-  location         : "Evanston, US"
+  location         : #"Evanston, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
