@@ -31,6 +31,8 @@ Feedback from students:
 - "Bullipe was wonderful and very accessible. He took time to explain the concepts and I would rate him very high."
 - "Bullipe is a brilliant resource and I wish him the best."
 
+---
+
 # Teaching Assistant 📚
 
 ## Accounting 
