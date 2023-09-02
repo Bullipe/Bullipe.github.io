@@ -12,6 +12,13 @@ Current GAAP regulations prohibit the capitalization of firms' intangible invest
 
 ---
 
+### Globalization and profitability of US firms
+*With [Ravi Jagannathan](https://en.wikipedia.org/wiki/Ravi_Jagannathan) and [Swaminathan Sridharan](https://www.kellogg.northwestern.edu/faculty/directory/sridharan_swaminathan.aspx)*
+
+China’s admission to the WTO in December 2001 heralded an era of increased globalization of trade, increasing import competition in the domestic markets and export opportunities for US firms. The profitability of S&P 500 Index firms as measured by the ratio of aggregate Earnings Before Interest and Taxes to aggregate Sales (EBIT Margin), a proxy for market power in the aggregate, increased significantly from an average of 11.2% during 1984-2001 to 12.4% during 2002-2019.  This is driven by their foreign EBIT Margin increasing from an average of 10.8% to 15.5%.  Our findings highlight the need for separating foreign and domestic segments when examining whether the market power of firms has changed over time.
+
+---
+
 ### Types of Component Auditors and Shareholder Ratification of the Auditor
 *With Sriniwas Mahapatro | Revise and Resubmit at JBFA*
 
@@ -19,17 +26,10 @@ The PCAOB's Rule 3211 mandates firms to disclose the types of component auditors
 
 ---
 
-### Globalization and profitability of US firms
-*With Swaminathan Sridharan*
-
-China’s admission to the WTO in December 2001 heralded an era of increased globalization of trade, increasing import competition in the domestic markets and export opportunities for US firms. The profitability of S&P 500 Index firms as measured by the ratio of aggregate Earnings Before Interest and Taxes to aggregate Sales (EBIT Margin), a proxy for market power in the aggregate, increased significantly from an average of 11.2% during 1984-2001 to 12.4% during 2002-2019.  This is driven by their foreign EBIT Margin increasing from an average of 10.8% to 15.5%.  Our findings highlight the need for separating foreign and domestic segments when examining whether the market power of firms has changed over time.
-
----
-
 ## Book Chapters
 
 ### Estimation of Earnings Response Coefficients using Bayesian Hierarchical Models
-*With Sanjay Kallapur*
+*With [Sanjay Kallapur](https://scholar.google.com/citations?user=Xa0GKZoAAAAJ&hl=en)*
 
 Accounting parameters such as earnings response coefficients (ERC) are generally heterogeneous across firms. When panel data is available, the parameters are typically estimated using OLS with either pooled data which ignores parameter heterogeneity or using firm-specific observations, which tends to give noisy estimates. An alternative is to use Bayesian hierarchical models, which preserve parameter heterogeneity but have the advantage of being less noisy than firm-specific OLS. In this study, using a sample of 301 firms, we compare the results from three Bayesian hierarchical models to OLS-based firm-specific ERCs. Our results show that the Bayesian models produce ERCs that reduce the number of negative ERCs from 48 to 6 and lower mean squared error in a hold-out sample by more than 90%.
 

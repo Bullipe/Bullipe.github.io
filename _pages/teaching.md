@@ -33,16 +33,18 @@ Feedback from students:
 
 ---
 
+
+
 # Teaching Assistant 📚
 
 ## Accounting 
 
-Assisted: Prof. Jake Thomas (Yale)
+Assisted: Prof. [Jake Thomas](https://scholar.google.com/citations?user=ma2M5DoAAAAJ&hl=en) (Yale)
 
 ## Statistical Modeling 
 
-Assisted: Prof. Richard Waterman (Wharton)
+Assisted: Prof. [Richard Waterman](https://statistics.wharton.upenn.edu/profile/waterman/#teaching) (Wharton)
 
 ## Theoretical Accounting 
 
-Assisted: Prof. Swaminathan Sridharan (Kellogg)
+Assisted: Prof. [Swaminathan Sridharan](https://www.kellogg.northwestern.edu/faculty/directory/sridharan_swaminathan.aspx) (Kellogg)
