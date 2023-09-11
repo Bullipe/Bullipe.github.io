@@ -5,13 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Instructor 🎙️
+
+## 📚 Teaching Philosophy
+I strive to create a learning environment that nurtures curiosity, promotes critical thinking, and fosters diversity and inclusivity. In the age of artificial intelligence, I am adapting my pedagogical strategies to effectively prepare students for a digitally enhanced future.
+
+
+## Instructor 🎙️
 
 ## Financial Accounting – The Language of Business 
 
-**Overall rating:** 6.70/7.00  
-**Knowledge:** 6.62/7.00  
-**Communication:** 6.52/7:00  
+**Overall rating:** 6.7/7.0
+**Knowledge:** 6.6/7.0 
+**Communication:** 6.5/7:0 
 
 Feedback from students:
 
@@ -21,9 +26,9 @@ Feedback from students:
 
 ## Statistical Modeling with JMP 
 
-**Overall rating:** 6.92/7.00  
-**Knowledge:** 6.85/7.00  
-**Communication:** 7:00/7:00  
+**Overall rating:** 6.9/7.0  
+**Knowledge:** 6.9/7.0  
+**Communication:** 7.0/7.0  
 
 Feedback from students:
 
@@ -35,16 +40,16 @@ Feedback from students:
 
 
 
-# Teaching Assistant 📚
+## Teaching Assistant 📚
 
 ## Accounting 
 
-Assisted: Prof. [Jake Thomas](https://scholar.google.com/citations?user=ma2M5DoAAAAJ&hl=en) (Yale)
+Assisted: [Jake Thomas](https://scholar.google.com/citations?user=ma2M5DoAAAAJ&hl=en) (Yale)
 
 ## Statistical Modeling 
 
-Assisted: Prof. [Richard Waterman](https://statistics.wharton.upenn.edu/profile/waterman/#teaching) (Wharton)
+Assisted: [Richard Waterman](https://statistics.wharton.upenn.edu/profile/waterman/#teaching) (Wharton)
 
 ## Theoretical Accounting 
 
-Assisted: Prof. [Swaminathan Sridharan](https://www.kellogg.northwestern.edu/faculty/directory/sridharan_swaminathan.aspx) (Kellogg)
+Assisted: [Swaminathan Sridharan](https://www.kellogg.northwestern.edu/faculty/directory/sridharan_swaminathan.aspx) (Kellogg)

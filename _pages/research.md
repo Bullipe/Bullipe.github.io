@@ -20,7 +20,7 @@ China’s admission to the WTO in December 2001 heralded an era of increased glo
 ---
 
 ### Types of Component Auditors and Shareholder Ratification of the Auditor
-*With Sriniwas Mahapatro | Revise and Resubmit at JBFA*
+*With Sriniwas Mahapatro*
 
 The PCAOB's Rule 3211 mandates firms to disclose the types of component auditors used and their contribution to the overall audit of firms. Within this context, we study the effect of types of component auditors on shareholder dissatisfaction.  Using a difference-in-differences framework, We find that MNCs reporting the use of large component auditors (LCAs, or component auditors contributing materially to the audit) have 17% lower shareholder voting against (or abstaining from) auditor ratification. The effect is more pronounced in firms with high institutional ownership and non-specialist principal auditors. No such effects occur with small component auditors (SCAs). Our results support the view that, on average, LCAs offer higher `local' benefits and impose lower coordination costs compared to SCAs.
 

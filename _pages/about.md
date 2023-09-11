@@ -14,9 +14,6 @@ I am a final year doctoral candidate specializing in Accounting at the Indian Sc
 ## 🔬 Research Interests
 Economics of Intangible Capital, Valuation, Financial Accounting, Data Analytics and Machine Learning
 
-## 📚 Teaching Philosophy
-I strive to create a learning environment that nurtures curiosity, promotes critical thinking, and fosters diversity and inclusivity. In the age of artificial intelligence, I am adapting my pedagogical strategies to effectively prepare students for a digitally enhanced future.
-
 ## 🤖 AI and the Future of Academia
 Given the profound influence AI is anticipated to have over the next two decades, I am of the belief that it is incumbent upon researchers, teachers, and students alike to remain at the cutting edge of this technological wave. Check out my Medium article [here](https://medium.com/@bullipereddy/chatgpt-and-academic-research-a-valuable-ally-or-a-mere-distraction-409ba78d3be9) where I delve into how ChatGPT presents an early glimpse into the benefits of integrating AI tools into academic research.
 
