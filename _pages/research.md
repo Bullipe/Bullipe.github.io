@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### A better measure of internally generated intangible capital
+### A machine learning-based measure of intangible capital
 *Job Market Paper*
 
 I provide a new measure of a firm’s in-house intangible capital, based on a machine learning approach. My model improves upon recent progress in the literature that estimates intangible capital by linearly accumulating past expenditures. My approach explicitly considers three features in which intangible investments differs, at least in degree, with respect to property, plant, and equipment: (1) less likely to erode with use, (2) facilitate easier interaction and repackaging with other intangible investments to create firm value, and (3) can be rapidly and simultaneously deployed in multiple markets with minimal capital expenditures. I use purchase price allocation to intangibles in mergers and acquisitions transactions to train my machine learning model and then apply it to a wider Compustat sample. My estimates of intangible capital outperform as-reported values and linear cost accumulation models in better explaining cross-sectional variation in enterprise values, predicting future investments, and earning higher high minus low (HML) value–factor portfolio returns.
