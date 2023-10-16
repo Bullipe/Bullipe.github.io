@@ -14,11 +14,11 @@ I strive to create a learning environment that nurtures curiosity, promotes crit
 
 ## Financial Accounting – The Language of Business 
 
-**Overall rating:** 6.7/7.0
-**Knowledge:** 6.6/7.0 
-**Communication:** 6.5/7:0 
+**Overall rating:** 6.7/7.0  
+**Knowledge:** 6.6/7.0  
+**Communication:** 6.5/7:0  
 
-Feedback from students:
+Feedback from students (Class size - 45):
 
 - "An amazing lecture!"
 - "Bullipe broke down complex concepts into relatable examples."
@@ -30,7 +30,7 @@ Feedback from students:
 **Knowledge:** 6.9/7.0  
 **Communication:** 7.0/7.0  
 
-Feedback from students:
+Feedback from students (Class size - 16):
 
 - "Bullipe was very supportive and accessible for clarifications. He had immense patience in handling queries and also took an extra session."
 - "Bullipe was wonderful and very accessible. He took time to explain the concepts and I would rate him very high."
