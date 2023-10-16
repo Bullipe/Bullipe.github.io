@@ -38,9 +38,9 @@ Accounting parameters such as earnings response coefficients (ERC) are generally
 ## Work-in-progress
 
 ### Tackling Bias-Variance Tradeoff in Earnings Management Detection
+*With [Andrew Leone](https://scholar.google.com/citations?user=7GdQEHIAAAAJ&hl=en)*
 
-
-I examine the traditional methodologies used in detecting earnings management activities. On the one hand, firm-specific longitudinal regressions, despite being effective in accounting for operational environment and financial reporting practices, often suffer from a high degree of variance in estimations and difficulties associated with small sample sizes. On the other hand, industry-level regressions, while encompassing industry-wide influences, grapple with interpretational challenges and a propensity to ignore the natural reversal of the accrual process, yielding high bias. In response, I propose a three-level, nested model as an innovative solution. With firm-years nested within firms and firms within industries, this model is predicated on the heterogeneity of coefficients, achieving a balanced trade-off between bias and variance.
+This study examines the traditional methodologies used in detecting earnings management activities. On the one hand, firm-specific longitudinal regressions, despite being effective in accounting for operational environment and financial reporting practices, often suffer from a high degree of variance in estimations and difficulties associated with small sample sizes. On the other hand, industry-level regressions, while encompassing industry-wide influences, grapple with interpretational challenges and a propensity to ignore the natural reversal of the accrual process, yielding high bias. In response, a three-level, nested model is proposed as a solution. With firm-years nested within firms and firms within industries, this model is predicated on the heterogeneity of coefficients, achieving a balanced trade-off between bias and variance.
 
 ---
 
