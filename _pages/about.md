@@ -12,7 +12,7 @@ redirect_from:
 I am a final year doctoral candidate specializing in Accounting at the Indian School of Business (ISB) and concurrently a research specialist in Accounting Information and Management at the Kellogg School of Management (Northwestern University). 
 
 ## 🔬 Research Interests
-Financial Accounting, Intangible Capital, Data Analytics and Machine Learning, Textual Analysis
+Intangible Capital, Data Analytics and Machine Learning, Financial Accounting, Sustainability
 
 ## 🤖 AI and the Future of Academia
 Given the profound influence AI is anticipated to have over the next two decades, I am of the belief that it is incumbent upon researchers, teachers, and students alike to remain at the cutting edge of this technological wave. Check out my Medium article [here](https://medium.com/@bullipereddy/chatgpt-and-academic-research-a-valuable-ally-or-a-mere-distraction-409ba78d3be9) where I delve into how ChatGPT presents an early glimpse into the benefits of integrating AI tools into academic research.
