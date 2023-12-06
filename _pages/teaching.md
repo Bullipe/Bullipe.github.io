@@ -5,10 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
 ## 💡 Teaching Philosophy
-I strive to create a learning environment that nurtures curiosity, promotes critical thinking, and fosters diversity and inclusivity. In the age of artificial intelligence, I am adapting my pedagogical strategies to effectively prepare students for a digitally enhanced future.
-
+I strive to create a learning environment that nurtures curiosity, promotes critical thinking, and fosters diversity and inclusivity. 
 
 ## Instructor 🎙️
 

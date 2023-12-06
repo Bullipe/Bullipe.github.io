@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## 🚀 About Me
-I am a final year doctoral candidate specializing in Accounting at the Indian School of Business (ISB) and concurrently a research specialist in Accounting Information and Management at the Kellogg School of Management (Northwestern University). 
+I am a final year doctoral candidate specializing in Accounting at the Indian School of Business (ISB) and concurrently a research specialist (visiting) in Accounting Information and Management at the Kellogg School of Management (Northwestern University). 
 
 ## 🔬 Research Interests
 Intangible Capital, Data Analytics and Machine Learning, Financial Accounting, Sustainability
