@@ -12,7 +12,7 @@ I provide a new measure of a firm’s in-house intangible capital, based on a ma
 
 ---
 
-### Globalization and profitability of US firms
+### Globalization and profitability of US firms: The Role of Intangibles
 *With [Ravi Jagannathan](https://en.wikipedia.org/wiki/Ravi_Jagannathan) and [Swaminathan Sridharan](https://www.kellogg.northwestern.edu/faculty/directory/sridharan_swaminathan.aspx)*
 
 China’s admission to the WTO in December 2001 heralded an era of increased globalization of trade, increasing import competition in the domestic markets and export opportunities for US firms. The profitability of S&P 500 Index firms as measured by the ratio of aggregate Earnings Before Interest and Taxes to aggregate Sales (EBIT Margin), a proxy for market power in the aggregate, increased significantly from an average of 11.2% during 1984-2001 to 12.4% during 2002-2019.  This is driven by their foreign EBIT Margin increasing from an average of 10.8% to 15.5%.  Our findings highlight the need for separating foreign and domestic segments when examining whether the market power of firms has changed over time.
